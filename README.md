@@ -30,7 +30,7 @@ _Some text can be itallic_ <br>
 
 # BIG PICTURE IMAGE HERE
 
-![Git Practice](/Big%20Picture.png)
+![Git Practice](/Birth Certificate.jpg)
 
 # TAJMAHAL
 
